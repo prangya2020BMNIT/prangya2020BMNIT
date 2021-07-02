@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prangya2020BMNIT
 - 👀 I’m interested in ...Biomedical Engineering,AI,DEEP LEARNING
-- 🌱 I’m currently learning ...M.TECH IN BIOMEDICAL ENGINEERING
+- 🌱 I’m currently learning ...M.TECH IN BIOMEDICAL ENGINEERING,NIT,ROURKELA(2020-22)
 - 💞️ I’m looking to collaborate on ...Python,Deep learning,image processing in MRI,Artificial Intelligence
 - 📫 How to reach me ...9937183378
 
