@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Biomedical Engineering,AI,DEEP LEARNING
 - 🌱 I’m currently learning ...M.TECH IN BIOMEDICAL ENGINEERING,NIT,ROURKELA(2020-22)
 - 💞️ I’m looking to collaborate on ...Python,Deep learning,image processing in MRI,Artificial Intelligence
-- 📫 How to reach me ...9937183378
+- 📫 How to reach me ...9937183378,prangya.cse@gmail.com
 
 <!---
 prangya2020BMNIT/prangya2020BMNIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
